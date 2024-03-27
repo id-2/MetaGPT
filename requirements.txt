@@ -49,7 +49,7 @@ wrapt==1.15.0
 aioredis~=2.0.1 # Used by metagpt/utils/redis.py
 websocket-client==1.6.2
 aiofiles==23.2.1
-gitpython==3.1.40
+gitpython==3.1.41
 zhipuai==2.0.1
 socksio~=1.0.0
 gitignore-parser==0.1.9
